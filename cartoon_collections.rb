@@ -8,7 +8,7 @@ end
 def summon_captain_planet (veggies) # code an here
   # Your code here
   result= []
-  veggies.each do |veggies|
+  veggies.collect do |veggies|
     result << veggies
   end
   result
