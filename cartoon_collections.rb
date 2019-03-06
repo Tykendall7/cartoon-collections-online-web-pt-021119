@@ -9,7 +9,9 @@ def summon_captain_planet (veggies) # code an here
   # Your code here
   result= []
   veggies.each do |veggies|
-    result << 
+    result << veggies
+  end
+  result
 end
 
 def long_planeteer_calls# code an argument here
