@@ -2,7 +2,7 @@ def roll_call_dwarves (dwarves)# code an argument here
   # Your code here
   if dwarves.length > 1
     dwarves.each_with_index do [name,index]
-  
+  end
 end
 
 def summon_captain_planet# code an argument here
