@@ -1,6 +1,6 @@
 def roll_call_dwarves (dwarves)# code an argument here
   # Your code here
-  
+  if dwarves.length < 1
   
 end
 
