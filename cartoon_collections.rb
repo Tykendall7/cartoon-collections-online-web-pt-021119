@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet (veggies) # code an here
   # Your code here
-  
+  veggies.each 
 end
 
 def long_planeteer_calls# code an argument here
